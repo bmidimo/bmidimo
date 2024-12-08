@@ -4,6 +4,14 @@
 - My other areas of focus are `Cybersecurity` and `Developer Web`.
 - I have one years of work experience in `Graphic Design`.
 - My interests are `Games`, `Anime/Manga`, `Leitura` and `Astronomia`.
-/*<p align="center">
+<p align="center">
  <a href='https://profile.intra.42.fr/users/bmidimo' target="_blank"><img alt='42' src='https://img.shields.io/badge/Luanda-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
-  </a>*/
+  </a>
+  
+## Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,html,css,github,bash,linux,vscode,ps,wordpress" />
+  </a>
+</p>
