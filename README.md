@@ -22,3 +22,9 @@
     <img src="https://skillicons.dev/icons?i=c,html,css,github,bash,linux,vscode,ps,wordpress" />
   </a>
 </p>
+
+<div align=center>
+	</a>
+	  <img src="https://komarev.com/ghpvc/?username=Nuno-Jesus&style=for-the-badge&color=red"></a>
+	</a>
+</div>
